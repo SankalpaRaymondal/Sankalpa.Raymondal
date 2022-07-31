@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+
+<HEADER>
+<TITLE>
+test
+</TITLE>
+</HEADER>
+
+<BODY>
+<IMG SRC = "Demo.jpg" >
+</BODY>
+
+</HTML>
